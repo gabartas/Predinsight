@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" output="test-classes" path="test"/>
+	<classpathentry kind="con" path="com.gwtplugins.gwt.eclipse.core.GWT_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="F:/Dropbox/eclipse-workspace/libs predinsight/apiconnector-1.0.19.jar"/>
+	<classpathentry kind="lib" path="F:/Dropbox/eclipse-workspace/libs predinsight/arpack_combined_all.jar"/>
+	<classpathentry kind="lib" path="F:/Dropbox/eclipse-workspace/libs predinsight/bounce.jar"/>
+	<classpathentry kind="lib" path="F:/Dropbox/eclipse-workspace/libs predinsight/commons-compress-1.10.jar"/>
+	<classpathentry kind="lib" path="F:/Dropbox/eclipse-workspace/libs predinsight/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="F:/Dropbox/eclipse-workspace/libs predinsight/commons-lang3-3.7.jar"/>
+	<classpathentry kind="lib" path="F:/Dropbox/eclipse-workspace/libs predinsight/core.jar"/>
+	<classpathentry kind="lib" path="F:/Dropbox/eclipse-workspace/libs predinsight/httpmime-4.0.jar"/>
+	<classpathentry kind="lib" path="F:/Dropbox/eclipse-workspace/libs predinsight/java-cup.jar"/>
+	<classpathentry kind="lib" path="F:/Dropbox/eclipse-workspace/libs predinsight/JFlex.jar"/>
+	<classpathentry kind="lib" path="F:/Dropbox/eclipse-workspace/libs predinsight/junit.jar"/>
+	<classpathentry kind="lib" path="F:/Dropbox/eclipse-workspace/libs predinsight/kxml2-2.3.0.jar"/>
+	<classpathentry kind="lib" path="F:/Dropbox/eclipse-workspace/libs predinsight/mtj.jar"/>
+	<classpathentry kind="lib" path="F:/Dropbox/eclipse-workspace/libs predinsight/OmlRunnerDemo.jar"/>
+	<classpathentry kind="lib" path="F:/Dropbox/eclipse-workspace/libs predinsight/openmlmoa-0.9.1.jar"/>
+	<classpathentry kind="lib" path="F:/Dropbox/eclipse-workspace/libs predinsight/openmlweka-0.9.5.jar"/>
+	<classpathentry kind="lib" path="F:/Dropbox/eclipse-workspace/libs predinsight/weka.jar"/>
+	<classpathentry kind="lib" path="F:/Dropbox/eclipse-workspace/libs predinsight/weka_william.jar"/>
+	<classpathentry kind="lib" path="F:/Dropbox/eclipse-workspace/libs predinsight/xstream-1.4.9.jar"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>

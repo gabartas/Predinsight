@@ -1,0 +1,176 @@
+/** Add css rules here for your application. */
+/* titles */
+.title {
+	font-size: 2em;
+  	font-weight: bold;
+  	color: white;
+  	margin: 10px 0px 5px;
+  	text-align: center;
+}
+
+.parttitle{
+	font-size: 20px;
+  	font-weight: bold;
+  	color: black;
+}
+
+.subparttitle{
+	font-size: 16px;
+  	font-weight: bold;
+  	color: black;
+}
+
+
+/*Global layout*/
+.titlepanel{
+	background-color: #4caf50;
+}
+
+.westpanel{
+	padding: 10px 20px 10px 20px;
+	border-right: 1px solid #4caf50;
+	border-bottom: 1px solid #4caf50;
+}
+
+.eastpanel{
+	padding: 10px 20px 10px 20px;
+	border-left: 1px solid #4caf50;
+	border-bottom: 1px solid #4caf50;
+}
+
+.bottompanel{
+	padding: 10px 20px 10px 20px;
+}
+
+.mainpanel {
+	padding: 10px 20px 20px 20px;
+}
+
+.sendButton {
+  display: block;
+  font-size: 16pt;
+}
+
+.serverResponseLabelError {
+  color: red;
+}
+
+.instr{
+	margin: 10px 10px 0px;
+}
+
+.instrpnl{
+	background-color: #eaeaea;
+	border-top: 1px solid white;
+	-webkit-box-shadow: 0px 5px 10px 5px rgba(204,204,204,1);
+	-moz-box-shadow: 0px 5px 10px 5px rgba(204,204,204,1);
+	box-shadow: 0px 5px 10px 5px rgba(204,204,204,1);
+}
+
+.list{
+}
+
+.listpanel{
+	padding: 5px
+}
+
+/* Influence description */
+.infdesc{
+	padding : 4px;
+}
+
+.infdescfocused{
+	padding : 4px;
+	background-color: #e2e2e2;
+}
+
+.focus{
+	border: 1px solid silver;
+}
+
+.focusselected{
+	border: 5px solid #4caf50;
+}
+
+/* Instance description */
+
+.instdesc{
+	padding : 10px;
+	border: 1px solid silver;
+}
+
+.instdesctitle{
+	font-size: 16px;
+  	color: black;
+}
+
+.instdesctable{
+	border: 1px solid silver;
+  	padding: 2px;
+  	margin-bottom:6px;
+}
+
+.instdescheader{
+	background-color: #4caf50;
+  	color: white;
+  	font-style: italic;
+}
+
+.instdescnameColumn{
+  	width:8em;
+}
+
+.instdescvalueColumn{
+  	width:8em;
+}
+
+/** Specifics to Selection page*/
+.flowdescpnl{
+	border: 1px solid #c9c9c9;
+}
+
+.flowdesc{
+	margin: 5px 5px 0px;
+}
+
+/** Specifics to FlowSelection page*/
+
+.defaultbutton{
+	padding : 2px;
+}
+
+/** Specifics to exploitation page */
+.radiopanel{
+	padding: 10px;
+}
+
+
+/** Attributes gestion list : */
+.nameColumn {
+  text-align: right;
+  width:8em;
+}
+
+.valueColumn {
+  width:8em;
+}
+
+.missingColumn {
+  width:1em;
+}
+
+.removeColumn {
+  text-align: center;
+}
+
+.attributeListHeader {
+  background-color: #4caf50;
+  color: white;
+  font-style: italic;
+}
+
+.attributeList {
+  border: 1px solid silver;
+  padding: 2px;
+  margin-bottom:6px;
+}
